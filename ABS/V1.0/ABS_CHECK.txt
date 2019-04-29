@@ -1,0 +1,3 @@
+REQ_X_SLIB_019 (formerly V_SLS_PRIM_350)
+The symbol [ABS] shall be used to compute the absolute value of a real data.
+//
